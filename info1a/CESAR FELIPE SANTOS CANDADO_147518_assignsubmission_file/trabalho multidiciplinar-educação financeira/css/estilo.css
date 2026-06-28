@@ -1,0 +1,89 @@
+body{
+	margin: 25px;
+	background-image: url(../img/fundo1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: gray; 
+	text-align: center; /* Alinhamento centralizado */
+	border-color: white; 
+	border-style: solid;
+	border-width: 2px;
+	font-family: Calibri, Helvetica, Arial, sans-serif; 
+}
+h1{
+	padding: 20px;
+	color: white; /* laranja fogo */
+	background-color: #121212; /* preto carvão */
+	font-size: 40px;
+}
+h2{
+	color: green; /*vermelho brasa */
+	font-size: 40px;
+}
+h3{
+	color: red;
+	font-size: 35px;
+}
+p{
+	font-size: 25px;
+	color: lightcyan;
+}
+li{
+	list-style-position: inside;
+	font-size: 30px;
+	border-color: #F5F5F5; /* branco quente */
+	border-style: solid;
+	border-width: 3px;
+	color: brown;
+	background-color: brown;
+}
+ul{
+	color: purple; /* branco quente */
+}
+footer{
+	margin-top: 5px;
+	padding: 5px;
+	color: blue; /* branco quente */
+	background-color: #FF6A00; /* laranja fogo */
+} 
+#front{
+	font-size: 30px;
+	color: white;
+	border-color: blue; /* branco quente */
+	border-style: solid;
+	border-width: 10px;
+	background-color: blue;
+} 
+#matematica{
+	font-size: 30px;
+	color: gold;
+	border-color: orange; /* branco quente */
+	border-style: solid;
+	border-width: 10px;
+	background-color: orange;
+} 
+#ferramentas{
+	font-size: 30px;
+	color: red;
+	border-color: yellow; /* branco quente */
+	border-style: solid;
+	border-width: 10px;
+	background-color: yellow;
+} 
+#materias{
+    background-color: lime;
+    border-color: lime; /* branco quente */
+	border-style: solid;
+	border-width: 20px;
+	margin-top: 10px;
+	padding: 10px;
+}
+.cabeçalho{
+	font-size: 35px; 
+	background-color: darkgray;
+    border-color: darkgray; /* branco quente */
+	border-style: solid;
+	border-width: 20px;
+	margin-top: 10px;
+	padding: 10px;
+}

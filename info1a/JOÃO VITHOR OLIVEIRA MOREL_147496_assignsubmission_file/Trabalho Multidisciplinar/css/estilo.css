@@ -1,0 +1,40 @@
+body{
+	background-image:url(../img/fundo2.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.red h2{
+	color: #8B0000;
+}
+
+h2{
+	font-family: sans-serif;
+}
+.text1 p{
+	color:#8B0000 ;
+	font-family: sans-serif;
+
+}
+
+.verde h2{
+	color: #006400;
+}
+
+.text2 p{
+	color: #006400;
+	font-family: sans-serif;
+}
+
+.red1 h4{
+	color:#8B0000 ;
+}
+
+.verd1 h4{
+	color:#006400 ;
+}
+
+.red3 h4{
+	color:#191970 ;
+	font-family: sans-serif;
+}

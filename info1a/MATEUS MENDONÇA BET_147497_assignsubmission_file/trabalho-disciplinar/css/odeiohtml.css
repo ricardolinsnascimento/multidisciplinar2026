@@ -1,0 +1,153 @@
+body{
+    background-image: url(../imgs/fundo-ifms.png); 
+    text-align: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    color: #1F7A3D;
+    font-family: Calibri, sans-serif;
+}
+h2{
+    color: #C7D7AA; 
+    font-family: calibri, sans-serif
+}
+p{
+   color: #0B5A2B;
+   font-family: Calibri, sans-serif;
+   font-size: 125%
+}
+li{
+    list-style-position: inside
+    ; color: #F5F5F5;
+    font-size: 125%;
+    transition: 0.3s;}
+    footer{
+        margin-top: 5px;
+        padding: 5px;
+        
+
+    }
+    .s{font-family: calibri, sans-serif;
+        font-size: 125%;}
+        strong{font-size: 150%
+        }
+
+        /*div{
+            color: orange;
+            border-left: solid;
+            border-left-color: #1B8E3E;
+            border-right: solid;
+            border-right-color: #1B8E3E;
+            border-top: solid;
+            border-top-color: #E7EBDF;
+            border-bottom: solid;
+            border-bottom-color: #E7EBDF;
+            margin-left: 350px;
+            border: auto;
+            
+            
+            width: 2000px;
+            height: 20px;}*/
+            .l{
+                margin-right:650px;
+                margin-left:650px;
+                border-left: solid;
+                border-left-color: #1B8E3E;
+                border-right: solid;
+                border-right-color: #1B8E3E;
+                background-color: #C7D7AA;
+                border-top: solid;
+                border-top-color: #E7EBDF;
+                border-bottom: solid;
+                border-bottom-color: #E7EBDF;
+                color: #0B5A2B;
+                }.l:hover{
+                    background-color: #99C35D;
+                    cursor:pointer;
+                } 
+
+                .lm{
+                    margin-right:650px;
+                    margin-left:650px;
+                    border-left: solid;
+                    border-left-color: #1B8E3E;
+                    border-right: solid;
+                    border-right-color: #1B8E3E;
+                    background-color: #C7D7AA;
+                    border-bottom: solid;
+                    border-bottom-color: #E7EBDF;
+                    color: #0B5A2B;
+                    }.lm:hover{
+                        background-color: #99C35D;
+                        cursor:pointer;
+                    }
+                    .lma{
+                        margin-right:650px;
+                        margin-left:650px;
+                        border-left: solid;
+                        border-left-color: #1B8E3E;
+                        border-right: solid;
+                        border-right-color: #1B8E3E;
+                        background-color: #C7D7AA;
+                        color: #0B5A2B;
+                        }.lma:hover{
+                            background-color: #99C35D;
+                            cursor:pointer;
+                        }
+                        
+                        .sla{ margin-right:650px;
+                            margin-left:650px;
+                            border-left: solid;
+                            border-left-color: #1B8E3E;
+                            border-right: solid;
+                            border-right-color: #1B8E3E;
+                            background-color: #C7D7AA;
+                            border-top: solid;
+                            border-top-color: #E7EBDF;
+                            border-bottom: solid;
+                            border-bottom-color: #E7EBDF;
+                            color: #0B5A2B;}
+                            .mesmonivel {
+                                display: flex; 
+                                gap: 15px;    
+                                justify-content: center; 
+                                align-items: center; 
+                            }
+
+                            .d{
+                                width: 100px;
+                                height: 100px;
+                                background-color: #4CAF50;
+                                color: white;
+                                text-align: center;
+                                padding: 10px;
+                                text-align: center;
+                                border-radius: 5px;
+                                line-height: 100px; 
+                            }
+                            .b{
+                                height: 100%;
+                                width: 100%;
+                                border-radius: 5px;
+                            }
+                            .sla2{
+                                margin-right:auto;
+                                margin-left:auto;
+                                border-left: solid;
+                                border-left-color: #1B8E3E;
+                                border-right: solid;
+                                border-right-color: #1B8E3E;
+                                background-color: #C7D7AA;
+                                border-top: solid;
+                                border-top-color: #E7EBDF;
+                                border-bottom: solid;
+                                border-bottom-color: #E7EBDF;
+                                color: #0B5A2B;
+                            }
+                            .cards{
+                                height: 200px;
+                                width: 200px;
+                            }

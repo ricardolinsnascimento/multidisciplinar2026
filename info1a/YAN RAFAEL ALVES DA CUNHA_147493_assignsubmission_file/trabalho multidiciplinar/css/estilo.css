@@ -1,0 +1,38 @@
+body {
+    margin: 25px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("../img/fundo.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-color: #000;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#matematica {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.autor {
+    background-color: #E6E6FA;
+    color: #5D478B;
+}
+
+#conteudo {
+    color: #1C1C1C;
+}
+
+#info {
+    color: #1C1C1C;
+}
+
+#site {
+    color: #6E7B8B
+}
+
+#video {
+    color: #6E7B8B;
+}

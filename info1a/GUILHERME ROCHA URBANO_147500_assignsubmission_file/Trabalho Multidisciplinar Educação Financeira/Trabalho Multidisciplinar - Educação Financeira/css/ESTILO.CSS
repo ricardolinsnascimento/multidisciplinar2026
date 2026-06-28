@@ -1,0 +1,61 @@
+body{
+	
+	background-image: url(../img/fundo1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #121212; /* preto carvão */
+	text-align: center; /* Alinhamento centralizado */
+	
+	border-width: 2px;
+    background-size: cover;/*ocupando toda a tela*/
+}
+h1{
+	
+	color: #FF6A00; /* laranja fogo */
+	
+	font-size: 40px;
+}
+h2{
+	color: #D84315; 
+	font-size: 40px;
+}
+p{
+	color: #D84315; 
+	font-size: 25px;
+}
+li{
+	list-style-position: inside;
+	font-size: 20px;
+}
+ul{
+	color: #F5F5F5; 
+}
+footer{
+	margin-top: 5px;
+	padding: 5px;
+	color: #F5F5F5; 
+	background-color: #FF6A00; 
+}
+img{
+	font-size: 50px; 
+    
+}
+#explicando{
+	
+}
+h3{
+	color: #EAEBD1;
+	font-size: 25px;
+}
+.na{
+	color: #6C7182;
+
+}
+figcaption{
+	font-size: 30px;
+}#footer{
+	color: #573E39;
+}
+#planilha{
+	
+}

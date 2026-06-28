@@ -1,0 +1,30 @@
+body{
+background-image: url(../img/fundo1.png);
+background-repeat: no-repeat;
+background-position: center;
+background-color: #121212; /* preto carvão */
+text-align: center;
+border-color: #F5F5F5; /* branco quente */
+border-style: solid;
+border-width: 2px;
+}
+h1{
+color: #FF6A00; /* laranja fogo */
+background-color: #121212; /* preto carvão */
+font-size: 40px;
+}
+h2{
+color: #D84315; /*vermelho brasa */
+font-size: 40px;
+}
+p{
+color: #F5F5F5; /* branco quente */
+font-size: 25px;
+}
+li{
+list-style-position: inside;
+font-size: 20px;
+}
+ul{
+color: #F5F5F5; /* branco quente */
+} 

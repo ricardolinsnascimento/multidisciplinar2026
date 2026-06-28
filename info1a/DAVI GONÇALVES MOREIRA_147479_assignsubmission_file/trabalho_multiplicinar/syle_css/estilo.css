@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f5f5;
+}
+
+header{
+    background:#00843d;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+.logo{
+    width:340px;
+    margin-bottom:15px;
+}
+
+main{
+    width:90%;
+    max-width:1000px;
+    margin:30px auto;
+}
+
+section{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:8px;
+}
+
+h1,h2,h3{
+    margin-bottom:15px;
+}
+
+p{
+    margin-bottom:15px;
+    line-height:1.6;
+}
+
+ul{
+    margin-left:20px;
+}
+
+nav{
+    background:white;
+    padding:20px;
+    width:90%;
+    max-width:1000px;
+    margin:20px auto;
+    border-radius:8px;
+}
+
+nav ul{
+    margin-top:10px;
+}
+
+nav li{
+    margin-bottom:10px;
+}
+
+a{
+    color:#00843d;
+}
+
+#matematica img{
+    width:100%;
+    max-width:800px;
+}
+
+.galeria{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:15px;
+}
+
+.galeria img{
+    width:100%;
+    border-radius:5px;
+}
+
+footer{
+    background:#00843d;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+
+b{
+   color:#00843d;
+}
