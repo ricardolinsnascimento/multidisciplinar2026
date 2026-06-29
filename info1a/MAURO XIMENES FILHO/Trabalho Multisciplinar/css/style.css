@@ -1,0 +1,39 @@
+body{
+	margin: 25px;
+	background-image: url(../img/fundo.png.);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #3C3C3C; /* preto carvão */
+	text-align: center; /* Alinhamento centralizado */
+	border-color: #F5F5F5; /* branco quente */
+	border-style: solid;
+	border-width: 2px;
+	background-size: cover;
+}
+h1{
+	padding: 20px;
+	color: green; 
+	font-size: 40px
+}
+h2{
+	color: green; 
+	font-size: 40px;
+}
+p{
+	color: #006400 
+	font-size: 25px;
+}
+footer{
+	color: #F5F5F5; /* branco quente */
+}a{
+	color: #203500
+}#melhor{
+	font-size: 25px;
+	color: #06402B;
+}#link{
+	font-size: 25px;
+	color: black;
+}#final{
+	background-color: #203500; 
+	font-size: 30px;
+}
