@@ -1,0 +1,81 @@
+body{  
+	background-image: url(../img/imagem_de_fundo.png); 
+	background-size: 1500px 1200; 
+	background-position: center;   
+	background-color:#A7E8CE;  
+	border-width: 2px;    
+	font-family: Calibri, Helvetica, Arial, sans-serif; 
+}
+a{
+	color: #c4fff4;
+	font-size:25px;
+}
+h1{  
+	padding: 40px; 
+	color: #3CCEC4; 
+	background-color: #383B46; 
+	font-size: 40px; 
+} 
+h2{ 
+	padding: 10px;
+	background-color: #3B4046;
+	
+	margin-bottom: 40px;
+	color: #54D6C5; 
+	font-size: 30px; 
+}
+h3{
+	margin-left: 40px;
+	margin-right: 810px;
+	margin-bottom: 30px;
+	color: #3DD6BD; 
+	margin: 80px, 80px , 80px , 200px;
+}
+p{ 
+	color: #c4fff4; 
+	font-size: 25px; 
+} 
+li{  
+	font-color:#52FFBA;
+	font-size: 20px; 
+} 
+ul{ 
+	color: #c4fff4; 
+} 
+footer{ 
+	text-align: center;
+	margin-top: 5px; 
+	margin-bottom: 20px;
+	padding: 5px; 
+	color: #AFC9C0; 
+	background-color: #596B75;
+}nav
+{
+	background-color: #588271;
+}
+.navv{
+	background-color: #588271;
+	margin-top: 30px;
+	border: 2px solid #4CAF50; 
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+	border-radius: 10px;  
+}
+#navvv{
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-right: 1427px;
+	margin-left: 120px;
+	border: 2px solid #C4CFFF; 
+	box-shadow: 0 10px 10px rgba(170, 90, 90, 0.2); 
+}
+#professor{
+	font-size: 40px;
+}
+#navvvv{
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-right: 857px;
+	margin-left: 420px;
+	border: 2px solid #C4CFFF; 
+	box-shadow: 0 10px 10px rgba(170, 90, 90, 0.2); 
+}

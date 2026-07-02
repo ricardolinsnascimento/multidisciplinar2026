@@ -1,0 +1,47 @@
+<html lang="pt-br"> 
+<head> 
+<title>Trabalho Multidisciplinar-Educação Financeira</title> 
+<meta charset="utf-8"> 
+<style> 
+body{ 
+ background-repeat: no-repeat;
+ background-position: center;
+ background-color: #f5f5f5, /*branco quente*/
+ text-align: center;
+ border-color: #f5f5f5, /*branco quente*/
+ border-style: solid;
+ border-width: 5px;
+} 
+ h1{
+ padding: 20px; 
+color: #000000;  /* Black*/
+background-color: #32CD32;  /* LimeGreen*/
+font-size: 40px;
+} 
+h2{ 
+color: #FF0000;  /* Red1*/ 
+} 
+p{ 
+color: #000000;  /* Black*/
+font-size: 25px;
+}
+li{
+	list-style-position: inside;
+	font-size: 25px;
+}
+ul{
+	color: #000000  /* Black*/
+	font-size: 25px;
+} 
+footer{
+	margin-top: 5px
+	padding :5px
+	color: #000000,  /* Black*/
+	background-color: #32CD32 /* LimeGreen*/
+}
+.conteudo{
+	font-size: 20px
+}
+</style> 
+</head> 
+<body> 

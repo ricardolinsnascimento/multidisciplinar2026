@@ -1,0 +1,40 @@
+body{
+	background-image: url(../img/fundo1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #F5F5F5 ; /* branco quente  */
+	text-align: center;
+	border-color: #F5F5F5; /* branco quente */
+	border-style: solid;
+	border-width: 5px;
+}h1{
+	padding: 20px;
+	color: 	#000000; /* Black */
+	background-color: #32CD32	; /* LimeGreen */
+	font-size: 40px;
+}
+h2{
+	color: 	#FF0000; /* Red1 */
+	font-size: 40px;
+}
+p{
+	color: #000000; /* Black */
+	font-size: 25px;
+}
+li{
+	list-style-position: inside;
+	font-size: 20px;
+}
+ul{
+	color: #000000; /* Black */
+	font-size: 25px;
+}
+footer{
+	margin-top: 5px;
+	padding: 5px;
+	color: 	#000000; /* Black */
+	background-color:  #32CD32	; /* LimeGreen */
+}
+.conteudo{
+	front-size: 30px;
+}
