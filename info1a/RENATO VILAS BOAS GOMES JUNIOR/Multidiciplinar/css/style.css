@@ -1,0 +1,59 @@
+body{ 
+	background-color: white;
+	text-align: center;
+	border-color: #11C253; 
+	border-style: solid;
+	border-width: 3px; 
+	font-family: Calibri, Helvetica, Arial, sans-serif;
+	margin: 20px 30px 20px 30px;
+} 
+h1{ 
+	color: #11C253; 
+	font-size: 40px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+h2{ 
+	color: #11C253; 
+	font-size: 30px;
+} 
+p{ 
+	color: #0F731D;
+	font-size: 23px;
+	padding-left: 30px;
+	padding-right: 30px; 
+} 
+a{
+	color:#0F731D;
+	font-size: 23px;
+}
+footer{
+	margin-top: 5px;
+	padding: 5px; 
+	background-color:#11C253;
+}
+.cards{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	gap:30px;
+}
+.disciplina {
+	max-width: 250px;
+	margin: 0 auto;
+	text-align: center;
+	border: 4px solid #05993D;
+}.descricao{
+	max-width: 950px;
+	margin: 0 auto;
+	text-align: center;
+
+	
+}#sites{
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	border: 4px solid #05993D;
+
+}
